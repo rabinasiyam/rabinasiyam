@@ -76,7 +76,6 @@
 - 📫 [Email](mailto:blacktiger420@proton.me)
 - 💬 [Telegram](https://t.me/ProfessionalPy)
 - 📘 [Facebook](https://web.facebook.com/Professional.py)
-- 📸 [Instagram](https://www.instagram.com/blacktiger420)
 
 ## Links
 - [GitHub - IP Info Extension](https://github.com/rabinasiyam/IP-Info-Extension)
