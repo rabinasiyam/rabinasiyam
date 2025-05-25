@@ -74,14 +74,13 @@
 
 ## Contact Me
 - 📫 [Email](mailto:blacktiger420@proton.me)
-- 💬 [Telegram](https://t.me/ProfessionalPy)
-- 📘 [Facebook](https://web.facebook.com/Professional.py)
+- 💬 [Telegram](https://t.me/sifatullasiyam)
+- 📘 [Facebook](https://www.facebook.com/EncryptedEcho)
 
 ## Links
 - [GitHub - IP Info Extension](https://github.com/rabinasiyam/IP-Info-Extension)
 - [GitHub Profile](https://github.com/rabinasiyam/)
 - [GitHub Pages](https://rabinasiyam.github.io)
-- [Web Hosting](https://mysarver.000webhostapp.com)
-- [YouTube](https://www.youtube.com/@blacktiger420)
-- [Facebook Messenger](m.me/SiyamPort80)
+- [YouTube](https://www.youtube.com/@dataraven101)
+
 
